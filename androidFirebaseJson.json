@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "609265006248",
+    "project_id": "pi-on-premises-a6d08",
+    "storage_bucket": "pi-on-premises-a6d08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609265006248:android:8b67882ab88459ab52b49d",
+        "android_client_info": {
+          "package_name": "panasonic.digital.signage.pionpremises2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "609265006248-dagi3sulrjumq1hrjqqbltoqershcc48.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkHkMQ_GNDobwDCeedptcGz9lqtZ08Fos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "609265006248-dagi3sulrjumq1hrjqqbltoqershcc48.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
